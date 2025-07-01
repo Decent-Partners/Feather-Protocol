@@ -117,7 +117,8 @@ Feather evolves into:
 - Emits events for efficient indexing.
 - Reduces overhead vs full-chain scans.
 - Enables private, spam-resistant, and scalable publishing when combined with Noir.
-- **Consideration**: While effective, this method requires a dedicated intermediary to index remarks for data construction. A pallet with extrinsics could simplify fetching entries via regular RPCs and light clients, potentially enhancing accessibility for users relying on lightweight nodes.
+
+**Consideration**: The system remark method requires a dedicated intermediary to index remarks for data construction. A pallet with extrinsics could simplify fetching entries via regular RPCs and light clients, potentially enhancing accessibility for users relying on lightweight nodes.
 
 ---
 
@@ -174,16 +175,13 @@ Feather fuels deflation through:
 
 - Usage fees (0.01–0.1 KSM per remark) burned.
 - Batching (e.g., 1 KSM burn per 1,000 remarks).
-- Spam deterrents (up to 1 KSM per abuse).
+- Spam deterrents 
 - DAO and validator fees add to burns.
 
 ---
 
 ## ⚠️ Risks and Mitigations
 
-The Kusama "spammening" test (143,000 TPS @ 23% capacity, Jan 6, 2025) showed risks. Feather mitigates with:
-
-- Dynamic Fees: `pallet-feather-fees` escalates for abusers.
 - Noir Rate Limiting: ZK-enforced private limits.
 - DAO Self-Regulation: Anonymous ZK flagging, not removal.
 - IPFS Offloading: Avoids chain bloat.
@@ -206,8 +204,8 @@ We’re looking for:
 ## 🌐 Get Involved
 
 - Submit a `FEATHER::` remark via `system.remarkWithEvent` and dogfood the creation of Feather.
-- Index submitted Feathers and bring the flock together.
-- Critique the concept and improve things. 
+- Index submitted Feathers in this trial phase and help bring the flock together.
+- Critique the concept, improve things, quit moaning etc. 
 
 ---
 
