@@ -196,19 +196,17 @@ We’re looking for:
 
 * 🧠 **Concept contributors**
 * ✍️ **On-chain authors**: poets, builders, memers
-* 👩‍💻 **Developers**: Noir, UI, pallets, Kreivo, streaming
-* 🎨 **Designers**: for visual identity
+* 👩‍💻 **Developers**: Noir, UI, pallets, streaming, generative AI. 
+* 🎨 **Designers**: visual identity etc.
 * 🐦 **Boundary-pushers** on Kusama
 
 ---
 
 ## 🌐 Get Involved
 
-* Submit a `FEATHER::` remark via `system.remarkWithEvent`.
-* Develop tools and UIs to scale Feather.
-
-> Let’s tune into the canary’s song and shape the future on-chain.
-> — *The Birdbrain Collective*
+* Submit a `FEATHER::` remark via `system.remarkWithEvent` and dogfood the creation of Feather.
+* Index submitted Feathers and bring the flock together.
+* Critique the concept and improve things.
 
 ---
 
