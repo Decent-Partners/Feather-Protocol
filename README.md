@@ -10,7 +10,7 @@ Feather Protocol is a decentralised, experimental intelligence layer on Kusama, 
 
 It aggregates this into generative zines that evolve into [Kreivo-based DAOs on Asset Hub](https://kusama.subsquare.io/referenda/5380), scalable by emergent teams. Using Noir zero-knowledge proofs (ZKPs), Feather ensures privacy and scalability, burns KSM via the incoming [Dark Hole pallet](https://kusama.subsquare.io/referenda/539), and mitigates spam and offensive content risks through economic and cultural incentives.
 
-Validators gain new economic roles as Akash-style contributors, supporting zine production, storage, and Livepeer-inspired real-time AI transcoding.
+Validators gain new economic roles supporting zine production, storage, and real-time AI transcoding.
 
 > No gatekeepers. No permission needed.
   
