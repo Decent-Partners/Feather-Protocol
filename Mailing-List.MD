@@ -5,6 +5,7 @@
 **Date Prepared:** August 12, 2025  
 **Version:** 1.0  
 **Authors:** Decent Partners
+
 **Project Name:** Feather Newsletter MVP  
 **Objective:** Build a minimal viable product (MVP) for a decentralised mailing list that aggregates user-submitted content into a monthly newsletter called "Feather." Submissions are made via the <a href="https://github.com/Decent-Partners/Feather-Protocol" style="color: #1a73e8; text-decoration: none;">Feather Protocol</a> on Kusama, curated by a membership-based DAO on the either the Kreivo parachain or Asset Hub (dependent on Kreivo pallet upgrade), compiled into an IPFS-hosted document, and distributed on-chain for pull-based access. The system emphasises decentralisation, permissionless submissions, and on-chain verifiability, with no reliance on centralised servers or email infrastructure.
 
